@@ -1,0 +1,7 @@
+body{
+    background-image: url('https://www.nasa.gov/sites/default/files/thumbnails/image/smap-weather.jpg');
+    background-size: cover;
+}
+.right{
+    background-color: rgb(0, 0, 0,0.4);
+}
